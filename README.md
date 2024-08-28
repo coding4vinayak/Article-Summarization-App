@@ -1,5 +1,5 @@
 
-# Text Summarization App
+# Article Summarization App
 
 This Flask application provides summarization capabilities for text, audio, and images. Users can interact with a web interface to summarize different types of input.
 
